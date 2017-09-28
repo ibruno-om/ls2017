@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="(Unknown)" sequence="1" timestamp="1506558877089" analysisTimestamp="1506558872308" release="">
+  <Project projectName="java-nfe">
+    <Jar>/home/aluno/Documentos/Java_NFe-master/target/test-classes</Jar>
+    <Jar>/home/aluno/Documentos/Java_NFe-master/target/classes</Jar>
+    <AuxClasspathEntry>/home/aluno/Documentos/Java_NFe-master/target/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/Documentos/Java_NFe-master/target/test-classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/br/com/autocom/nfe-wsdl/3.10c/nfe-wsdl-3.10c.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/org/apache/axis2/axis2-kernel/1.6.2/axis2-kernel-1.6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/org/apache/ws/commons/axiom/axiom-impl/1.2.13/axiom-impl-1.2.13.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/org/codehaus/woodstox/wstx-asl/3.2.9/wstx-asl-3.2.9.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/org/apache/geronimo/specs/geronimo-ws-metadata_2.0_spec/1.1.2/geronimo-ws-metadata_2.0_spec-1.1.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1/geronimo-jta_1.1_spec-1.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/javax/servlet/servlet-api/2.3/servlet-api-2.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/commons-fileupload/commons-fileupload/1.2/commons-fileupload-1.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/wsdl4j/wsdl4j/1.6.2/wsdl4j-1.6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/org/apache/ws/commons/schema/XmlSchema/1.4.7/XmlSchema-1.4.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/org/apache/neethi/neethi/3.0.2/neethi-3.0.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/org/apache/woden/woden-api/1.0M9/woden-api-1.0M9.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/org/apache/woden/woden-impl-dom/1.0M9/woden-impl-dom-1.0M9.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/org/apache/woden/woden-impl-commons/1.0M9/woden-impl-commons-1.0M9.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/javax/ws/rs/jsr311-api/1.0/jsr311-api-1.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/org/apache/axis2/axis2-adb/1.6.2/axis2-adb-1.6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/org/apache/geronimo/specs/geronimo-activation_1.1_spec/1.0.2/geronimo-activation_1.1_spec-1.0.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/org/apache/ws/commons/axiom/axiom-api/1.2.13/axiom-api-1.2.13.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/org/apache/geronimo/specs/geronimo-javamail_1.4_spec/1.7.1/geronimo-javamail_1.4_spec-1.7.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/jaxen/jaxen/1.1.3/jaxen-1.1.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/org/apache/geronimo/specs/geronimo-stax-api_1.0_spec/1.0.1/geronimo-stax-api_1.0_spec-1.0.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/org/apache/james/apache-mime4j-core/0.7.2/apache-mime4j-core-0.7.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/br/com/autocom/nfe-xsd/8.i.2_DFe1.02a/nfe-xsd-8.i.2_DFe1.02a.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/br/com/samuelweb/java_certificado/1.5/java_certificado-1.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/commons-codec/commons-codec/1.2/commons-codec-1.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/com/sun/xml/txw2/txw2/20110809/txw2-20110809.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/relaxngDatatype/relaxngDatatype/20020414/relaxngDatatype-20020414.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/org/apache/axis2/axis2-transport-http/1.6.2/axis2-transport-http-1.6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/org/apache/axis2/axis2-transport-local/1.6.2/axis2-transport-local-1.6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/org/ini4j/ini4j/0.5.4/ini4j-0.5.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/aluno/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar</AuxClasspathEntry>
+    <SrcDir>/java-nfe/src/test/java</SrcDir>
+    <SrcDir>/home/aluno/Documentos/Java_NFe-master/src/main/java</SrcDir>
+    <SrcDir>/home/aluno/Documentos/Java_NFe-master/src/main/resources</SrcDir>
+  </Project>
+  <BugInstance type="DM_DEFAULT_ENCODING" priority="1" rank="19" abbrev="Dm" category="I18N" first="1">
+    <Class classname="br.com.samuelweb.nfe.Assinar">
+      <SourceLine classname="br.com.samuelweb.nfe.Assinar" sourcefile="Assinar.java" sourcepath="br/com/samuelweb/nfe/Assinar.java"/>
+    </Class>
+    <Method classname="br.com.samuelweb.nfe.Assinar" name="documentFactory" signature="(Ljava/lang/String;)Lorg/w3c/dom/Document;" isStatic="true">
+      <SourceLine classname="br.com.samuelweb.nfe.Assinar" start="204" end="208" startBytecode="0" endBytecode="111" sourcefile="Assinar.java" sourcepath="br/com/samuelweb/nfe/Assinar.java"/>
+    </Method>
+    <Method classname="java.lang.String" name="getBytes" signature="()[B" isStatic="false" role="METHOD_CALLED">
+      <SourceLine classname="java.lang.String" start="958" end="958" startBytecode="0" endBytecode="37" sourcefile="String.java" sourcepath="java/lang/String.java"/>
+    </Method>
+    <SourceLine classname="br.com.samuelweb.nfe.Assinar" start="207" end="207" startBytecode="18" endBytecode="18" sourcefile="Assinar.java" sourcepath="br/com/samuelweb/nfe/Assinar.java"/>
+    <SourceLine classname="br.com.samuelweb.nfe.Assinar" start="207" end="207" startBytecode="18" endBytecode="18" sourcefile="Assinar.java" sourcepath="br/com/samuelweb/nfe/Assinar.java"/>
+  </BugInstance>
+  <BugInstance type="DM_DEFAULT_ENCODING" priority="1" rank="19" abbrev="Dm" category="I18N" first="1">
+    <Class classname="br.com.samuelweb.nfe.Assinar">
+      <SourceLine classname="br.com.samuelweb.nfe.Assinar" sourcefile="Assinar.java" sourcepath="br/com/samuelweb/nfe/Assinar.java"/>
+    </Class>
+    <Method classname="br.com.samuelweb.nfe.Assinar" name="outputXML" signature="(Lorg/w3c/dom/Document;)Ljava/lang/String;" isStatic="true">
+      <SourceLine classname="br.com.samuelweb.nfe.Assinar" start="237" end="252" startBytecode="0" endBytecode="276" sourcefile="Assinar.java" sourcepath="br/com/samuelweb/nfe/Assinar.java"/>
+    </Method>
+    <Method classname="java.io.ByteArrayOutputStream" name="toString" signature="()Ljava/lang/String;" isStatic="false" role="METHOD_CALLED">
+      <SourceLine classname="java.io.ByteArrayOutputStream" start="221" end="221" startBytecode="0" endBytecode="40" sourcefile="ByteArrayOutputStream.java" sourcepath="java/io/ByteArrayOutputStream.java"/>
+    </Method>
+    <SourceLine classname="br.com.samuelweb.nfe.Assinar" start="244" end="244" startBytecode="44" endBytecode="44" sourcefile="Assinar.java" sourcepath="br/com/samuelweb/nfe/Assinar.java"/>
+    <SourceLine classname="br.com.samuelweb.nfe.Assinar" start="244" end="244" startBytecode="44" endBytecode="44" sourcefile="Assinar.java" sourcepath="br/com/samuelweb/nfe/Assinar.java"/>
+  </BugInstance>
+  <BugInstance type="UUF_UNUSED_FIELD" priority="2" rank="18" abbrev="UuF" category="PERFORMANCE" first="1">
+    <Class classname="br.com.samuelweb.nfe.Assinar">
+      <SourceLine classname="br.com.samuelweb.nfe.Assinar" sourcefile="Assinar.java" sourcepath="br/com/samuelweb/nfe/Assinar.java"/>
+    </Class>
+    <Field classname="br.com.samuelweb.nfe.Assinar" name="assinarXMLsCertfificadoA1" signature="Lbr/com/samuelweb/nfe/Assinar;" isStatic="false">
+      <SourceLine classname="br.com.samuelweb.nfe.Assinar" start="75" end="75" startBytecode="0" endBytecode="0" sourcefile="Assinar.java" sourcepath="br/com/samuelweb/nfe/Assinar.java"/>
+    </Field>
+  </BugInstance>
+  <BugInstance type="ST_WRITE_TO_STATIC_FROM_INSTANCE_METHOD" priority="2" rank="17" abbrev="ST" category="STYLE" first="1">
+    <Class classname="br.com.samuelweb.nfe.ConfiguracoesIniciaisNfe">
+      <SourceLine classname="br.com.samuelweb.nfe.ConfiguracoesIniciaisNfe" sourcefile="ConfiguracoesIniciaisNfe.java" sourcepath="br/com/samuelweb/nfe/ConfiguracoesIniciaisNfe.java"/>
+    </Class>
+    <Method classname="br.com.samuelweb.nfe.ConfiguracoesIniciaisNfe" name="&lt;init&gt;" signature="(Lbr/com/samuelweb/nfe/util/Estados;Ljava/lang/String;Lbr/com/samuelweb/certificado/Certificado;Ljava/lang/String;Ljava/lang/String;)V" isStatic="false">
+      <SourceLine classname="br.com.samuelweb.nfe.ConfiguracoesIniciaisNfe" start="33" end="43" startBytecode="0" endBytecode="171" sourcefile="ConfiguracoesIniciaisNfe.java" sourcepath="br/com/samuelweb/nfe/ConfiguracoesIniciaisNfe.java"/>
+    </Method>
+    <Field classname="br.com.samuelweb.nfe.ConfiguracoesIniciaisNfe" name="instance" signature="Lbr/com/samuelweb/nfe/ConfiguracoesIniciaisNfe;" isStatic="true">
+      <SourceLine classname="br.com.samuelweb.nfe.ConfiguracoesIniciaisNfe" sourcefile="ConfiguracoesIniciaisNfe.java" sourcepath="br/com/samuelweb/nfe/ConfiguracoesIniciaisNfe.java"/>
+    </Field>
+    <SourceLine classname="br.com.samuelweb.nfe.ConfiguracoesIniciaisNfe" start="36" end="36" startBytecode="11" endBytecode="11" sourcefile="ConfiguracoesIniciaisNfe.java" sourcepath="br/com/samuelweb/nfe/ConfiguracoesIniciaisNfe.java"/>
+    <SourceLine classname="br.com.samuelweb.nfe.ConfiguracoesIniciaisNfe" start="36" end="36" startBytecode="11" endBytecode="11" sourcefile="ConfiguracoesIniciaisNfe.java" sourcepath="br/com/samuelweb/nfe/ConfiguracoesIniciaisNfe.java"/>
+  </BugInstance>
+  <BugInstance type="UC_USELESS_CONDITION" priority="1" rank="14" abbrev="UC" category="STYLE" first="1">
+    <Class classname="br.com.samuelweb.nfe.ConsultaXml">
+      <SourceLine classname="br.com.samuelweb.nfe.ConsultaXml" sourcefile="ConsultaXml.java" sourcepath="br/com/samuelweb/nfe/ConsultaXml.java"/>
+    </Class>
+    <Method classname="br.com.samuelweb.nfe.ConsultaXml" name="consultaXml" signature="(Lbr/inf/portalfiscal/nfe/schema/conssitnfe/TConsSitNFe;ZLjava/lang/String;)Lbr/inf/portalfiscal/nfe/schema/retconssitnfe/TRetConsSitNFe;" isStatic="true">
+      <SourceLine classname="br.com.samuelweb.nfe.ConsultaXml" start="50" end="117" startBytecode="0" endBytecode="1092" sourcefile="ConsultaXml.java" sourcepath="br/com/samuelweb/nfe/ConsultaXml.java"/>
+    </Method>
+    <String value="nfce == false"/>
+    <SourceLine classname="br.com.samuelweb.nfe.ConsultaXml" start="85" end="85" startBytecode="211" endBytecode="211" sourcefile="ConsultaXml.java" sourcepath="br/com/samuelweb/nfe/ConsultaXml.java" role="SOURCE_UNREACHABLE_CODE"/>
+    <SourceLine classname="br.com.samuelweb.nfe.ConsultaXml" start="85" end="85" startBytecode="208" endBytecode="208" sourcefile="ConsultaXml.java" sourcepath="br/com/samuelweb/nfe/ConsultaXml.java"/>
+    <SourceLine classname="br.com.samuelweb.nfe.ConsultaXml" start="85" end="85" startBytecode="208" endBytecode="208" sourcefile="ConsultaXml.java" sourcepath="br/com/samuelweb/nfe/ConsultaXml.java"/>
+  </BugInstance>
+  <BugInstance type="MS_PKGPROTECT" priority="2" rank="18" abbrev="MS" category="MALICIOUS_CODE" first="1">
+    <Class classname="br.com.samuelweb.nfe.Evento">
+      <SourceLine classname="br.com.samuelweb.nfe.Evento" sourcefile="Evento.java" sourcepath="br/com/samuelweb/nfe/Evento.java"/>
+    </Class>
+    <Field classname="br.com.samuelweb.nfe.Evento" name="result" signature="Lbr/inf/portalfiscal/www/nfe/wsdl/RecepcaoEvento/RecepcaoEventoStub$NfeRecepcaoEventoResult;" isStatic="true">
+      <SourceLine classname="br.com.samuelweb.nfe.Evento" start="24" end="24" startBytecode="0" endBytecode="0" sourcefile="Evento.java" sourcepath="br/com/samuelweb/nfe/Evento.java"/>
+    </Field>
+  </BugInstance>
+  <BugInstance type="MS_PKGPROTECT" priority="2" rank="18" abbrev="MS" category="MALICIOUS_CODE" first="1">
+    <Class classname="br.com.samuelweb.nfe.Inutilizar">
+      <SourceLine classname="br.com.samuelweb.nfe.Inutilizar" sourcefile="Inutilizar.java" sourcepath="br/com/samuelweb/nfe/Inutilizar.java"/>
+    </Class>
+    <Field classname="br.com.samuelweb.nfe.Inutilizar" name="result" signature="Lbr/inf/portalfiscal/www/nfe/wsdl/NfeInutilizacao2/NfeInutilizacao2Stub$NfeInutilizacaoNF2Result;" isStatic="true">
+      <SourceLine classname="br.com.samuelweb.nfe.Inutilizar" start="32" end="32" startBytecode="0" endBytecode="0" sourcefile="Inutilizar.java" sourcepath="br/com/samuelweb/nfe/Inutilizar.java"/>
+    </Field>
+  </BugInstance>
+  <BugInstance type="MS_PKGPROTECT" priority="2" rank="18" abbrev="MS" category="MALICIOUS_CODE" first="1">
+    <Class classname="br.com.samuelweb.nfe.Inutilizar">
+      <SourceLine classname="br.com.samuelweb.nfe.Inutilizar" sourcefile="Inutilizar.java" sourcepath="br/com/samuelweb/nfe/Inutilizar.java"/>
+    </Class>
+    <Field classname="br.com.samuelweb.nfe.Inutilizar" name="resultBA" signature="Lbr/inf/portalfiscal/www/nfe/wsdl/NfeInutilizacao/NfeInutilizacaoStub$NfeInutilizacaoNFResult;" isStatic="true">
+      <SourceLine classname="br.com.samuelweb.nfe.Inutilizar" start="33" end="33" startBytecode="0" endBytecode="0" sourcefile="Inutilizar.java" sourcepath="br/com/samuelweb/nfe/Inutilizar.java"/>
+    </Field>
+  </BugInstance>
+  <BugInstance type="UC_USELESS_CONDITION" priority="1" rank="14" abbrev="UC" category="STYLE" first="1">
+    <Class classname="br.com.samuelweb.nfe.Inutilizar">
+      <SourceLine classname="br.com.samuelweb.nfe.Inutilizar" sourcefile="Inutilizar.java" sourcepath="br/com/samuelweb/nfe/Inutilizar.java"/>
+    </Class>
+    <Method classname="br.com.samuelweb.nfe.Inutilizar" name="inutiliza" signature="(Lbr/inf/portalfiscal/nfe/schema/inutnfe/TInutNFe;ZLjava/lang/String;)Lbr/inf/portalfiscal/nfe/schema/retinutnfe/TRetInutNFe;" isStatic="true">
+      <SourceLine classname="br.com.samuelweb.nfe.Inutilizar" start="40" end="100" startBytecode="0" endBytecode="1040" sourcefile="Inutilizar.java" sourcepath="br/com/samuelweb/nfe/Inutilizar.java"/>
+    </Method>
+    <String value="nfce == false"/>
+    <SourceLine classname="br.com.samuelweb.nfe.Inutilizar" start="76" end="76" startBytecode="231" endBytecode="231" sourcefile="Inutilizar.java" sourcepath="br/com/samuelweb/nfe/Inutilizar.java" role="SOURCE_UNREACHABLE_CODE"/>
+    <SourceLine classname="br.com.samuelweb.nfe.Inutilizar" start="76" end="76" startBytecode="228" endBytecode="228" sourcefile="Inutilizar.java" sourcepath="br/com/samuelweb/nfe/Inutilizar.java"/>
+    <SourceLine classname="br.com.samuelweb.nfe.Inutilizar" start="76" end="76" startBytecode="228" endBytecode="228" sourcefile="Inutilizar.java" sourcepath="br/com/samuelweb/nfe/Inutilizar.java"/>
+  </BugInstance>
+  <BugInstance type="UC_USELESS_CONDITION" priority="1" rank="14" abbrev="UC" category="STYLE" first="1">
+    <Class classname="br.com.samuelweb.nfe.Status">
+      <SourceLine classname="br.com.samuelweb.nfe.Status" sourcefile="Status.java" sourcepath="br/com/samuelweb/nfe/Status.java"/>
+    </Class>
+    <Method classname="br.com.samuelweb.nfe.Status" name="statusServico" signature="(Lbr/inf/portalfiscal/nfe/schema/consstatserv/TConsStatServ;ZLjava/lang/String;)Lbr/inf/portalfiscal/nfe/schema/retconsstatserv/TRetConsStatServ;" isStatic="true">
+      <SourceLine classname="br.com.samuelweb.nfe.Status" start="40" end="94" startBytecode="0" endBytecode="1021" sourcefile="Status.java" sourcepath="br/com/samuelweb/nfe/Status.java"/>
+    </Method>
+    <String value="nfce == false"/>
+    <SourceLine classname="br.com.samuelweb.nfe.Status" start="72" end="72" startBytecode="207" endBytecode="207" sourcefile="Status.java" sourcepath="br/com/samuelweb/nfe/Status.java" role="SOURCE_UNREACHABLE_CODE"/>
+    <SourceLine classname="br.com.samuelweb.nfe.Status" start="72" end="72" startBytecode="204" endBytecode="204" sourcefile="Status.java" sourcepath="br/com/samuelweb/nfe/Status.java"/>
+    <SourceLine classname="br.com.samuelweb.nfe.Status" start="72" end="72" startBytecode="204" endBytecode="204" sourcefile="Status.java" sourcepath="br/com/samuelweb/nfe/Status.java"/>
+  </BugInstance>
+  <BugInstance type="DM_DEFAULT_ENCODING" priority="1" rank="19" abbrev="Dm" category="I18N" first="1">
+    <Class classname="br.com.samuelweb.nfe.Validar">
+      <SourceLine classname="br.com.samuelweb.nfe.Validar" sourcefile="Validar.java" sourcepath="br/com/samuelweb/nfe/Validar.java"/>
+    </Class>
+    <Method classname="br.com.samuelweb.nfe.Validar" name="validateXml" signature="(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;" isStatic="false">
+      <SourceLine classname="br.com.samuelweb.nfe.Validar" start="97" end="116" startBytecode="0" endBytecode="310" sourcefile="Validar.java" sourcepath="br/com/samuelweb/nfe/Validar.java"/>
+    </Method>
+    <Method classname="java.lang.String" name="getBytes" signature="()[B" isStatic="false" role="METHOD_CALLED">
+      <SourceLine classname="java.lang.String" start="958" end="958" startBytecode="0" endBytecode="37" sourcefile="String.java" sourcepath="java/lang/String.java"/>
+    </Method>
+    <SourceLine classname="br.com.samuelweb.nfe.Validar" start="111" end="111" startBytecode="69" endBytecode="69" sourcefile="Validar.java" sourcepath="br/com/samuelweb/nfe/Validar.java"/>
+    <SourceLine classname="br.com.samuelweb.nfe.Validar" start="111" end="111" startBytecode="69" endBytecode="69" sourcefile="Validar.java" sourcepath="br/com/samuelweb/nfe/Validar.java"/>
+  </BugInstance>
+  <BugInstance type="DM_DEFAULT_ENCODING" priority="1" rank="19" abbrev="Dm" category="I18N" first="1">
+    <Class classname="br.com.samuelweb.nfe.util.NFCeUtil">
+      <SourceLine classname="br.com.samuelweb.nfe.util.NFCeUtil" sourcefile="NFCeUtil.java" sourcepath="br/com/samuelweb/nfe/util/NFCeUtil.java"/>
+    </Class>
+    <Method classname="br.com.samuelweb.nfe.util.NFCeUtil" name="getHash" signature="(Ljava/lang/String;Ljava/lang/String;)[B" isStatic="true">
+      <SourceLine classname="br.com.samuelweb.nfe.util.NFCeUtil" start="61" end="65" startBytecode="0" endBytecode="128" sourcefile="NFCeUtil.java" sourcepath="br/com/samuelweb/nfe/util/NFCeUtil.java"/>
+    </Method>
+    <Method classname="java.lang.String" name="getBytes" signature="()[B" isStatic="false" role="METHOD_CALLED">
+      <SourceLine classname="java.lang.String" start="958" end="958" startBytecode="0" endBytecode="37" sourcefile="String.java" sourcepath="java/lang/String.java"/>
+    </Method>
+    <SourceLine classname="br.com.samuelweb.nfe.util.NFCeUtil" start="62" end="62" startBytecode="7" endBytecode="7" sourcefile="NFCeUtil.java" sourcepath="br/com/samuelweb/nfe/util/NFCeUtil.java"/>
+    <SourceLine classname="br.com.samuelweb.nfe.util.NFCeUtil" start="62" end="62" startBytecode="7" endBytecode="7" sourcefile="NFCeUtil.java" sourcepath="br/com/samuelweb/nfe/util/NFCeUtil.java"/>
+  </BugInstance>
+  <BugInstance type="DM_DEFAULT_ENCODING" priority="1" rank="19" abbrev="Dm" category="I18N" first="1">
+    <Class classname="br.com.samuelweb.nfe.util.NFCeUtil">
+      <SourceLine classname="br.com.samuelweb.nfe.util.NFCeUtil" sourcefile="NFCeUtil.java" sourcepath="br/com/samuelweb/nfe/util/NFCeUtil.java"/>
+    </Class>
+    <Method classname="br.com.samuelweb.nfe.util.NFCeUtil" name="getHexa" signature="(Ljava/lang/String;)Ljava/lang/String;" isStatic="true">
+      <SourceLine classname="br.com.samuelweb.nfe.util.NFCeUtil" start="70" end="70" startBytecode="0" endBytecode="49" sourcefile="NFCeUtil.java" sourcepath="br/com/samuelweb/nfe/util/NFCeUtil.java"/>
+    </Method>
+    <Method classname="java.lang.String" name="getBytes" signature="()[B" isStatic="false" role="METHOD_CALLED">
+      <SourceLine classname="java.lang.String" start="958" end="958" startBytecode="0" endBytecode="37" sourcefile="String.java" sourcepath="java/lang/String.java"/>
+    </Method>
+    <SourceLine classname="br.com.samuelweb.nfe.util.NFCeUtil" start="70" end="70" startBytecode="1" endBytecode="1" sourcefile="NFCeUtil.java" sourcepath="br/com/samuelweb/nfe/util/NFCeUtil.java"/>
+    <SourceLine classname="br.com.samuelweb.nfe.util.NFCeUtil" start="70" end="70" startBytecode="1" endBytecode="1" sourcefile="NFCeUtil.java" sourcepath="br/com/samuelweb/nfe/util/NFCeUtil.java"/>
+  </BugInstance>
+  <BugInstance type="NP_NULL_ON_SOME_PATH" priority="2" rank="8" abbrev="NP" category="CORRECTNESS" first="1">
+    <Class classname="br.com.samuelweb.nfe.util.XmlUtil">
+      <SourceLine classname="br.com.samuelweb.nfe.util.XmlUtil" sourcefile="XmlUtil.java" sourcepath="br/com/samuelweb/nfe/util/XmlUtil.java"/>
+    </Class>
+    <Method classname="br.com.samuelweb.nfe.util.XmlUtil" name="objectToXml" signature="(Ljava/lang/Object;)Ljava/lang/String;" isStatic="true">
+      <SourceLine classname="br.com.samuelweb.nfe.util.XmlUtil" start="91" end="200" startBytecode="0" endBytecode="1603" sourcefile="XmlUtil.java" sourcepath="br/com/samuelweb/nfe/util/XmlUtil.java"/>
+    </Method>
+    <LocalVariable name="context" register="1" pc="520" role="LOCAL_VARIABLE_VALUE_OF"/>
+    <SourceLine classname="br.com.samuelweb.nfe.util.XmlUtil" start="176" end="176" startBytecode="898" endBytecode="898" sourcefile="XmlUtil.java" sourcepath="br/com/samuelweb/nfe/util/XmlUtil.java" role="SOURCE_LINE_DEREF"/>
+    <SourceLine classname="br.com.samuelweb.nfe.util.XmlUtil" start="91" end="91" startBytecode="0" endBytecode="0" sourcefile="XmlUtil.java" sourcepath="br/com/samuelweb/nfe/util/XmlUtil.java" role="SOURCE_LINE_NULL_VALUE"/>
+    <SourceLine classname="br.com.samuelweb.nfe.util.XmlUtil" start="135" end="135" startBytecode="523" endBytecode="523" sourcefile="XmlUtil.java" sourcepath="br/com/samuelweb/nfe/util/XmlUtil.java" role="SOURCE_LINE_KNOWN_NULL"/>
+    <SourceLine classname="br.com.samuelweb.nfe.util.XmlUtil" start="154" end="154" startBytecode="692" endBytecode="692" sourcefile="XmlUtil.java" sourcepath="br/com/samuelweb/nfe/util/XmlUtil.java" role="SOURCE_LINE_KNOWN_NULL"/>
+    <SourceLine classname="br.com.samuelweb.nfe.util.XmlUtil" start="167" end="167" startBytecode="831" endBytecode="831" sourcefile="XmlUtil.java" sourcepath="br/com/samuelweb/nfe/util/XmlUtil.java" role="SOURCE_LINE_KNOWN_NULL"/>
+    <Property name="edu.umd.cs.findbugs.detect.NullDerefProperty.LONG_RANGE_NULL_SOURCE" value="true"/>
+  </BugInstance>
+  <BugInstance type="RCN_REDUNDANT_NULLCHECK_OF_NONNULL_VALUE" priority="2" rank="18" abbrev="RCN" category="STYLE" first="1">
+    <Class classname="br.com.samuelweb.nfe.util.XmlUtil">
+      <SourceLine classname="br.com.samuelweb.nfe.util.XmlUtil" sourcefile="XmlUtil.java" sourcepath="br/com/samuelweb/nfe/util/XmlUtil.java"/>
+    </Class>
+    <Method classname="br.com.samuelweb.nfe.util.XmlUtil" name="removeAcentos" signature="(Ljava/lang/String;)Ljava/lang/String;" isStatic="true">
+      <SourceLine classname="br.com.samuelweb.nfe.util.XmlUtil" start="236" end="242" startBytecode="0" endBytecode="209" sourcefile="XmlUtil.java" sourcepath="br/com/samuelweb/nfe/util/XmlUtil.java"/>
+    </Method>
+    <LocalVariable name="str" register="0" pc="59" role="LOCAL_VARIABLE_VALUE_OF"/>
+    <Method classname="java.lang.String" name="replaceAll" signature="(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;" isStatic="false" role="METHOD_RETURN_VALUE_OF">
+      <SourceLine classname="java.lang.String" start="2223" end="2223" startBytecode="0" endBytecode="36" sourcefile="String.java" sourcepath="java/lang/String.java"/>
+    </Method>
+    <SourceLine classname="br.com.samuelweb.nfe.util.XmlUtil" start="241" end="241" startBytecode="60" endBytecode="60" sourcefile="XmlUtil.java" sourcepath="br/com/samuelweb/nfe/util/XmlUtil.java" role="SOURCE_REDUNDANT_NULL_CHECK"/>
+    <SourceLine classname="br.com.samuelweb.nfe.util.XmlUtil" start="241" end="241" startBytecode="60" endBytecode="60" sourcefile="XmlUtil.java" sourcepath="br/com/samuelweb/nfe/util/XmlUtil.java" role="SOURCE_REDUNDANT_NULL_CHECK"/>
+  </BugInstance>
+  <BugInstance type="SBSC_USE_STRINGBUFFER_CONCATENATION" priority="2" rank="18" abbrev="SBSC" category="PERFORMANCE" first="1">
+    <Class classname="br.com.samuelweb.nfe.util.XmlUtil">
+      <SourceLine classname="br.com.samuelweb.nfe.util.XmlUtil" sourcefile="XmlUtil.java" sourcepath="br/com/samuelweb/nfe/util/XmlUtil.java"/>
+    </Class>
+    <Method classname="br.com.samuelweb.nfe.util.XmlUtil" name="gZipToXml" signature="([B)Ljava/lang/String;" isStatic="true">
+      <SourceLine classname="br.com.samuelweb.nfe.util.XmlUtil" start="206" end="218" startBytecode="0" endBytecode="245" sourcefile="XmlUtil.java" sourcepath="br/com/samuelweb/nfe/util/XmlUtil.java"/>
+    </Method>
+    <SourceLine classname="br.com.samuelweb.nfe.util.XmlUtil" start="215" end="215" startBytecode="55" endBytecode="55" sourcefile="XmlUtil.java" sourcepath="br/com/samuelweb/nfe/util/XmlUtil.java"/>
+  </BugInstance>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Wed, 27 Sep 2017 21:06:55 -0300" total_classes="28" referenced_classes="282" total_bugs="16" total_size="1158" num_packages="3" java_version="1.8.0_101" vm_version="25.101-b13" cpu_seconds="32.32" clock_seconds="74.59" peak_mbytes="478.95" alloc_mbytes="455.50" gc_seconds="0.83" priority_2="8" priority_1="8">
+    <PackageStats package="br.com.samuelweb.nfe" total_bugs="11" total_types="13" total_size="700" priority_2="5" priority_1="6">
+      <ClassStats class="br.com.samuelweb.nfe.Assinar" sourceFile="Assinar.java" interface="false" size="105" bugs="3" priority_2="1" priority_1="2"/>
+      <ClassStats class="br.com.samuelweb.nfe.ConfiguracoesIniciaisNfe" sourceFile="ConfiguracoesIniciaisNfe.java" interface="false" size="73" bugs="1" priority_2="1"/>
+      <ClassStats class="br.com.samuelweb.nfe.ConsultaCadastro" sourceFile="ConsultaCadastro.java" interface="false" size="33" bugs="0"/>
+      <ClassStats class="br.com.samuelweb.nfe.ConsultaRecibo" sourceFile="ConsultaRecibo.java" interface="false" size="36" bugs="0"/>
+      <ClassStats class="br.com.samuelweb.nfe.ConsultaXml" sourceFile="ConsultaXml.java" interface="false" size="56" bugs="1" priority_1="1"/>
+      <ClassStats class="br.com.samuelweb.nfe.CscNfce" sourceFile="CscNfce.java" interface="false" size="30" bugs="0"/>
+      <ClassStats class="br.com.samuelweb.nfe.DistribuicaoDFe" sourceFile="DistribuicaoDFe.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="br.com.samuelweb.nfe.Enviar" sourceFile="Enviar.java" interface="false" size="64" bugs="0"/>
+      <ClassStats class="br.com.samuelweb.nfe.Evento" sourceFile="Evento.java" interface="false" size="68" bugs="1" priority_2="1"/>
+      <ClassStats class="br.com.samuelweb.nfe.Inutilizar" sourceFile="Inutilizar.java" interface="false" size="49" bugs="3" priority_2="2" priority_1="1"/>
+      <ClassStats class="br.com.samuelweb.nfe.Nfe" sourceFile="Nfe.java" interface="false" size="26" bugs="0"/>
+      <ClassStats class="br.com.samuelweb.nfe.Status" sourceFile="Status.java" interface="false" size="42" bugs="1" priority_1="1"/>
+      <ClassStats class="br.com.samuelweb.nfe.Validar" sourceFile="Validar.java" interface="false" size="94" bugs="1" priority_1="1"/>
+    </PackageStats>
+    <PackageStats package="br.com.samuelweb.nfe.exception" total_bugs="0" total_types="2" total_size="30">
+      <ClassStats class="br.com.samuelweb.nfe.exception.NfeException" sourceFile="NfeException.java" interface="false" size="15" bugs="0"/>
+      <ClassStats class="br.com.samuelweb.nfe.exception.NfeValidacaoException" sourceFile="NfeValidacaoException.java" interface="false" size="15" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="br.com.samuelweb.nfe.util" total_bugs="5" total_types="13" total_size="428" priority_2="3" priority_1="2">
+      <ClassStats class="br.com.samuelweb.nfe.util.CDATAContentHandler" sourceFile="CDATAContentHandler.java" interface="false" size="15" bugs="0"/>
+      <ClassStats class="br.com.samuelweb.nfe.util.CertificadoUtil" sourceFile="CertificadoUtil.java" interface="false" size="28" bugs="0"/>
+      <ClassStats class="br.com.samuelweb.nfe.util.ConstantesUtil" sourceFile="ConstantesUtil.java" interface="true" size="3" bugs="0"/>
+      <ClassStats class="br.com.samuelweb.nfe.util.ConstantesUtil$AMBIENTE" sourceFile="ConstantesUtil.java" interface="true" size="3" bugs="0"/>
+      <ClassStats class="br.com.samuelweb.nfe.util.ConstantesUtil$SERVICOS" sourceFile="ConstantesUtil.java" interface="true" size="13" bugs="0"/>
+      <ClassStats class="br.com.samuelweb.nfe.util.ConstantesUtil$VERSAO" sourceFile="ConstantesUtil.java" interface="true" size="3" bugs="0"/>
+      <ClassStats class="br.com.samuelweb.nfe.util.Estados" sourceFile="Estados.java" interface="false" size="72" bugs="0"/>
+      <ClassStats class="br.com.samuelweb.nfe.util.NFCeUtil" sourceFile="NFCeUtil.java" interface="false" size="38" bugs="2" priority_1="2"/>
+      <ClassStats class="br.com.samuelweb.nfe.util.ObjetoUtil" sourceFile="ObjetoUtil.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="br.com.samuelweb.nfe.util.ProxyUtil" sourceFile="ProxyUtil.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="br.com.samuelweb.nfe.util.SchemaUtil" sourceFile="SchemaUtil.java" interface="false" size="13" bugs="0"/>
+      <ClassStats class="br.com.samuelweb.nfe.util.WebServiceUtil" sourceFile="WebServiceUtil.java" interface="false" size="55" bugs="0"/>
+      <ClassStats class="br.com.samuelweb.nfe.util.XmlUtil" sourceFile="XmlUtil.java" interface="false" size="144" bugs="3" priority_2="3"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="386" invocations="1555" avgMicrosecondsPerInvocation="248" maxMicrosecondsPerInvocation="37988" standardDeviationMicrosecondsPerInvocation="1085"/>
+      <ClassProfile name="de.tobject.findbugs.builder.FindBugs2Eclipse" totalMilliseconds="334" invocations="2" avgMicrosecondsPerInvocation="167176" maxMicrosecondsPerInvocation="203961" standardDeviationMicrosecondsPerInvocation="36785"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="239" invocations="282" avgMicrosecondsPerInvocation="847" maxMicrosecondsPerInvocation="48939" standardDeviationMicrosecondsPerInvocation="3139"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="203" invocations="282" avgMicrosecondsPerInvocation="721" maxMicrosecondsPerInvocation="6019" standardDeviationMicrosecondsPerInvocation="987"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="133" invocations="1559" avgMicrosecondsPerInvocation="85" maxMicrosecondsPerInvocation="40652" standardDeviationMicrosecondsPerInvocation="1028"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="124" invocations="122" avgMicrosecondsPerInvocation="1024" maxMicrosecondsPerInvocation="34923" standardDeviationMicrosecondsPerInvocation="3518"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="117" invocations="144" avgMicrosecondsPerInvocation="817" maxMicrosecondsPerInvocation="8902" standardDeviationMicrosecondsPerInvocation="1512"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="105" invocations="472" avgMicrosecondsPerInvocation="222" maxMicrosecondsPerInvocation="3566" standardDeviationMicrosecondsPerInvocation="266"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="95" invocations="144" avgMicrosecondsPerInvocation="659" maxMicrosecondsPerInvocation="11449" standardDeviationMicrosecondsPerInvocation="1600"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="86" invocations="122" avgMicrosecondsPerInvocation="705" maxMicrosecondsPerInvocation="10138" standardDeviationMicrosecondsPerInvocation="1378"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="74" invocations="122" avgMicrosecondsPerInvocation="607" maxMicrosecondsPerInvocation="9229" standardDeviationMicrosecondsPerInvocation="1262"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="71" invocations="122" avgMicrosecondsPerInvocation="589" maxMicrosecondsPerInvocation="8594" standardDeviationMicrosecondsPerInvocation="1343"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="58" invocations="282" avgMicrosecondsPerInvocation="207" maxMicrosecondsPerInvocation="5158" standardDeviationMicrosecondsPerInvocation="413"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="56" invocations="282" avgMicrosecondsPerInvocation="200" maxMicrosecondsPerInvocation="3074" standardDeviationMicrosecondsPerInvocation="262"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildStringPassthruGraph" totalMilliseconds="49" invocations="282" avgMicrosecondsPerInvocation="174" maxMicrosecondsPerInvocation="1617" standardDeviationMicrosecondsPerInvocation="247"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="47" invocations="102" avgMicrosecondsPerInvocation="466" maxMicrosecondsPerInvocation="6165" standardDeviationMicrosecondsPerInvocation="892"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="43" invocations="388" avgMicrosecondsPerInvocation="112" maxMicrosecondsPerInvocation="11493" standardDeviationMicrosecondsPerInvocation="602"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.LiveLocalStoreDataflowFactory" totalMilliseconds="43" invocations="122" avgMicrosecondsPerInvocation="354" maxMicrosecondsPerInvocation="31281" standardDeviationMicrosecondsPerInvocation="2819"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="42" invocations="282" avgMicrosecondsPerInvocation="149" maxMicrosecondsPerInvocation="5134" standardDeviationMicrosecondsPerInvocation="419"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="38" invocations="122" avgMicrosecondsPerInvocation="317" maxMicrosecondsPerInvocation="22804" standardDeviationMicrosecondsPerInvocation="2054"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="37" invocations="282" avgMicrosecondsPerInvocation="132" maxMicrosecondsPerInvocation="9094" standardDeviationMicrosecondsPerInvocation="554"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindUnsatisfiedObligation" totalMilliseconds="36" invocations="28" avgMicrosecondsPerInvocation="1298" maxMicrosecondsPerInvocation="31057" standardDeviationMicrosecondsPerInvocation="5738"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History>
+    <AppVersion sequence="0" timestamp="1506558877087" release="" codeSize="0" numClasses="0"/>
+  </History>
+</BugCollection>
