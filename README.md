@@ -8,7 +8,7 @@ Repositório da Disciplina de Leitura de Software
 | Aula  | nota | link | comentário  |
 |:-:|:-:|---|:-:|
 | 1  | 1  | https://github.com/ibruno-om/ls2017  |   |
-| 2  | 0  |   |   |
+| 2  | 0  | [Lista 1](https://github.com/ibruno-om/ls2017/blob/master/docs/Lista%201.odt)  | Em Andamaneto  |
 | 3  | 1  | https://github.com/ibruno-om/ls2017/wiki/comandos  |   |
 | 4  | 1  | https://github.com/ibruno-om/ls2017/wiki/environment  |   |
 | 5  | 1  | https://github.com/ibruno-om/ls2017/wiki/landscape  |   |
