@@ -8,7 +8,7 @@ Repositório da Disciplina de Leitura de Software
 | Aula  | nota | link | comentário  |
 |:-:|:-:|---|:-:|
 | 1  | 1  | https://github.com/ibruno-om/ls2017  |   |
-| 2  | 0  | [Lista 1](https://github.com/ibruno-om/ls2017/blob/master/docs/Lista%201.odt)  | Em Andamaneto  |
+| 2  | 0  | [Lista 1](https://github.com/ibruno-om/ls2017/blob/master/docs/Lista%201.odt) e [Lista 2](https://github.com/ibruno-om/ls2017/blob/master/docs/Lista%202.odt)  | Em Andamaneto  |
 | 3  | 1  | https://github.com/ibruno-om/ls2017/wiki/comandos  |   |
 | 4  | 1  | https://github.com/ibruno-om/ls2017/wiki/environment  |   |
 | 5  | 1  | https://github.com/ibruno-om/ls2017/wiki/landscape  |   |
@@ -17,7 +17,7 @@ Repositório da Disciplina de Leitura de Software
 | 8  | 1  | https://github.com/ibruno-om/ls2017/wiki/tecnologiasThoughtworks  |   |
 | 9  | 1  | [analise-estatica](https://github.com/ibruno-om/ls2017/tree/master/analise-estatica) e [analise-estatica2](https://github.com/ibruno-om/ls2017/tree/master/analise-estatica2)  |   |
 | 10  | 1  | https://github.com/ibruno-om/ls2017/tree/master/javancss  |   |
-| 11  | 0  |   |   |
+| 11  | 0  |   | Pedente  |
 | 12  | 1  | https://github.com/ibruno-om/ls2017/wiki/visualvm  |   |
 | 13  | 1  | https://github.com/ibruno-om/ls2017/wiki/sonarcloud  |   |
 | 14  | 1  | https://github.com/ibruno-om/ls2017/wiki/softvis3d  |   |
