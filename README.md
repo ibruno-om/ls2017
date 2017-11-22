@@ -8,7 +8,7 @@ Repositório da Disciplina de Leitura de Software
 | Aula  | nota | link | comentário  |
 |:-:|:-:|---|:-:|
 | 1  | 1  | https://github.com/ibruno-om/ls2017  |   |
-| 2  | 0  | [Lista 1](https://github.com/ibruno-om/ls2017/blob/master/docs/Lista%201.pdf') e [Lista 2](https://github.com/ibruno-om/ls2017/blob/master/docs/Lista%202.odt)  | Em Andamaneto  |
+| 2  | 0  | [Lista 1](https://github.com/ibruno-om/ls2017/blob/master/docs/Lista%201.pdf') e [Lista 2](https://github.com/ibruno-om/ls2017/blob/master/docs/Lista%202.pdf)  | Concluída durante atividade 15  |
 | 3  | 1  | https://github.com/ibruno-om/ls2017/wiki/comandos  |   |
 | 4  | 1  | https://github.com/ibruno-om/ls2017/wiki/environment  |   |
 | 5  | 1  | https://github.com/ibruno-om/ls2017/wiki/landscape  |   |
@@ -17,9 +17,9 @@ Repositório da Disciplina de Leitura de Software
 | 8  | 1  | https://github.com/ibruno-om/ls2017/wiki/tecnologiasThoughtworks  |   |
 | 9  | 1  | [analise-estatica](https://github.com/ibruno-om/ls2017/tree/master/analise-estatica) e [analise-estatica2](https://github.com/ibruno-om/ls2017/tree/master/analise-estatica2)  |   |
 | 10  | 1  | https://github.com/ibruno-om/ls2017/tree/master/javancss  |   |
-| 11  | 1  | https://github.com/ibruno-om/ls2017/wiki/arquitetura  | Concluída após o prazo  |
+| 11  | 1  | https://github.com/ibruno-om/ls2017/wiki/arquitetura  |  Concluída durante atividade 15 |
 | 12  | 1  | https://github.com/ibruno-om/ls2017/wiki/visualvm  |   |
 | 13  | 1  | https://github.com/ibruno-om/ls2017/wiki/sonarcloud  |   |
 | 14  | 1  | https://github.com/ibruno-om/ls2017/wiki/softvis3d  |   |
 | 15  | 1  | https://github.com/ibruno-om/ls2017/  |   |
-| 16  |   |   |   |
+| 16  | 1  | Complemento das atividade realizadas  |   |
