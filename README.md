@@ -17,7 +17,7 @@ Repositório da Disciplina de Leitura de Software
 | 8  | 1  | https://github.com/ibruno-om/ls2017/wiki/tecnologiasThoughtworks  |   |
 | 9  | 1  | [analise-estatica](https://github.com/ibruno-om/ls2017/tree/master/analise-estatica) e [analise-estatica2](https://github.com/ibruno-om/ls2017/tree/master/analise-estatica2)  |   |
 | 10  | 1  | https://github.com/ibruno-om/ls2017/tree/master/javancss  |   |
-| 11  | 0  |   | Pedente  |
+| 11  | 1  | https://github.com/ibruno-om/ls2017/wiki/arquitetura  | Concluída após o prazo  |
 | 12  | 1  | https://github.com/ibruno-om/ls2017/wiki/visualvm  |   |
 | 13  | 1  | https://github.com/ibruno-om/ls2017/wiki/sonarcloud  |   |
 | 14  | 1  | https://github.com/ibruno-om/ls2017/wiki/softvis3d  |   |
